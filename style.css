@@ -1,0 +1,12 @@
+
+body {
+    height : 100%;
+    width: 100%;
+}
+
+#balloon {
+    font-size: 30px;
+    margin: auto;
+    width: auto;
+    text-align: center;
+}
